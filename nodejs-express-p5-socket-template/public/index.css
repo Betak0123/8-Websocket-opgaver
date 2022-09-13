@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Roboto';
+}
+
+body{
+    width:100vw;
+    height:100vh;
+    padding:20vw;
+    overflow:hidden;
+    display:grid;
+    place-items:center;
+}
+
+button{
+    padding:.4rem;
+    margin:1rem;
+}
+
